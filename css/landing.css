@@ -1,0 +1,92 @@
+html, body{
+	font-family: Montserrat, sans-serif;
+	color: #565656;
+	font-style: light;
+}
+
+nav{
+	font-size: 11px;
+	text-align: right;
+	font-weight: 100;
+}
+
+nav a{
+	color: #565656;
+}
+
+
+nav ul li{
+display: inline;
+}
+
+header{
+	text-align: center;
+}
+
+
+h1{
+	font-size: 30px;
+	color: #565656;
+
+}
+
+.content{
+	/*max-width: 900px;*/
+	margin: 0 auto;
+}
+
+.part-one{
+	background-color: blue;
+}
+
+.part-two{
+	background-color: blue;
+}
+
+.part-three{
+	background-color: blue;
+}
+
+.part-four{
+	background-color: blue;
+}
+
+.part-five{
+	background-color: blue;
+}
+
+img.ppl_2{
+	width; 181px;
+	max-width: 181px;
+	height: auto;
+}
+
+h2{
+	font-size: 30px;
+	color: #565656;
+}
+
+
+p.caption{
+	font-size: 16px;
+	color: lightgray;
+	font-style: italic;
+}
+
+
+a{
+	color: red;
+	text-decoration: none;
+}
+
+footer{	
+	background-color: yellow;
+}
+
+footer ul li{
+display: inline;
+}
+
+footer a{
+color: white;
+}
